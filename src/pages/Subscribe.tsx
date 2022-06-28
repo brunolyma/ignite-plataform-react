@@ -81,7 +81,7 @@ export function Subscribe() {
       </div>
 
       <img
-        src="./src/assets/code-mockup.png"
+        src="./src/public/assets/code-mockup.png"
         alt="code-screen-mockup"
         className="mt-10 max-w-[1200px]"
       />
