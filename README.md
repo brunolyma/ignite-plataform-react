@@ -1,11 +1,5 @@
+Aqui participei de um projeto da maratona Ignite-Lab da Rocketseat!
 
-// CMS = Content Management System
-// Traz tanto painel de ADMIN quanto a parte visual do front-end (temas)
+Nesse projeto fizemos do zero uma plataforma de video-aulas funcional utilizando diversas bibliotecas em alta no mercado!
 
-// Headless CMS (GraphCMS): Painel de ADMIN (dados fornecidos através de uma API REST ou GraphQL)
-// React que consome essa API do CMS
-
-// Dois tipos de operações principais: Query / mutation
-
-// Query = buscar dados
-// Mutation = criar, alterar ou deletar dados
+A aplicação foi desenvolvida em TypeScript(linguagem de tipagem estática criada sobre JS) e React(biblioteca poderosa de JS),  criamos components para cada bloco do página usando Tailwind para estilização
